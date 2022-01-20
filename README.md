@@ -1,13 +1,12 @@
-# Join-Us-Form
 <!DOCTYPE html>
 <html>
 <style>
 input[type=text], select {
   width: 100%;
-  padding: 12px 20px;
+  padding: 15px 20px;
   margin: 8px 0;
   display: inline-block;
-  border: 1px solid #ccc;
+  border: 1px solid #2A4740;
   border-radius: 4px;
   box-sizing: border-box;
 }
@@ -32,6 +31,20 @@ div {
   background-color: #DBE7E4;
   padding: 20px;
 }
+
+h3{
+	color:#265A4D;
+    font-family: cursive;
+    }
+    
+label{
+	color: #3B8F7A;
+    }
+    
+input{
+	color:#347162;
+    }
+    
 </style>
 <body>
 

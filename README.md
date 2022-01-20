@@ -9,6 +9,7 @@ input[type=text], select {
   border: 1px solid #2A4740;
   border-radius: 4px;
   box-sizing: border-box;
+  autocomplete:on;
 }
 
 input[type=submit] {
